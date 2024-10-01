@@ -1,0 +1,24 @@
+.nav {
+    background-color: #333;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.nav a {
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+}
+.nav a:hover {
+    color: #ddd;
+}
+.nav input {
+    padding: 5px;
+}
+.nav button {
+    padding: 5px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
