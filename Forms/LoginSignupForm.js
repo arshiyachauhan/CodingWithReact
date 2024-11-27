@@ -74,5 +74,4 @@ const FormLogin = () => {
     </div>
   );
 };
-
 export default FormLogin;
